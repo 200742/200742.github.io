@@ -23,13 +23,13 @@ body a{
 	width: 59%;
 }
 .logo{
-
+max-width: 50%
+	max-height: 70%;
 	float:left;
 	margin-right: 2%;
 }
 .menu{
-	max-width: 50%
-	max-height: 70%;
+
 	 float:left;
 	 margin: 17px 0 0;
 }
