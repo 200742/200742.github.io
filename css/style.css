@@ -558,7 +558,7 @@ li.list_desc h4 a:hover{
 	padding:15% 0;
 }
 .content_bottom-text h3{
-	color: #FFF;
+	color: #222222;
 	font-size: 3em;
 	font-weight: 800;
 	text-transform: uppercase;
@@ -566,13 +566,13 @@ li.list_desc h4 a:hover{
 	margin: 2% 0 10%;
 }
 p.m_1{
-	color: #FFF;
+	color: #222222;
 	font-size: 0.85em;
 	line-height: 2.2em;
 	margin-bottom:6%;
 }
 p.m_2{
-	color: #FFF;
+	color: #222222;
 	font-size: 0.85em;
 	line-height: 2.2em;
 }
@@ -2071,8 +2071,4 @@ h4.m_11 {
 	height:100%;
 	padding:15% 0;
 	
-}
-
-h3{
-	color:black;
 }
