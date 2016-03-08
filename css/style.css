@@ -356,13 +356,7 @@ li.list_desc h4 a{
 li.list_desc h4 a:hover{
 	color:red;
 }
-.c1{
-	background: url(../images/img-sprite.png) no-repeat -66px -8px;
-	width: 22px;
-	height: 24px;
-	display: inline-block;
-	vertical-align: middle;
-}
+
 .icon1 .profile_img {
 	margin-top: 3px;
 }
