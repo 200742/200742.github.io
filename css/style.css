@@ -204,7 +204,11 @@ max-width: 50%
 	z-index: -1;
 	-webkit-appearance: none;
 }
-
+.sb-icon-search {
+	color: #FFF;
+background: #000 url('../images/img-sprite.png') no-repeat 0px 1px;
+z-index: 90;
+}
 /* Open state */
 .sb-search.sb-search-open,.no-js .sb-search {
 	width:40%;
