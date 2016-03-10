@@ -306,6 +306,8 @@ figure {
 }
 img {
   vertical-align: middle;
+  width:45px;
+  height:45px;
 }
 .img-responsive,
 .thumbnail > img,
