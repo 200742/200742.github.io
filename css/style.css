@@ -15,7 +15,7 @@ body a{
 	-o-transition: 0.5s all;
 }
 .header{
-	background:#0080ff;
+	background:#fff;
 	padding: 1.5% 0;
 }
 .header-left{
@@ -765,7 +765,7 @@ h4.m_4 a:hover{
 	color:#444;
 }
 p.m_5{
-	color:#222;
+	color:#fff;
 	font-size:0.85em;
 }
 /*--footer--*/
