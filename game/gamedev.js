@@ -131,7 +131,7 @@ var stone = 0;
 
   setInterval(function() {
  if(food <= 0 ) {
-  	alert("You have starved to death. <br> </br>");
+  	alert("You have starved to death.");
   	location.reload();
   }
   else{};
