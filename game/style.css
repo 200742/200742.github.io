@@ -1,0 +1,169 @@
+body{
+  background-image: url(http://www.terynobrien.com/wp-content/uploads/2012/12/forestsun.jpg);
+}
+
+#fishscore{
+   position:absolute;
+background-color:white;
+width: 30px;
+height: 20px;
+margin-left:1305px;
+margin-top:-570px;
+}
+
+#stonescore{
+  position:absolute;
+background-color:white;
+width: 30px;
+height: 20px;
+margin-left:1305px;
+margin-top:-620px;
+}
+
+#foodscore{
+position:absolute;
+background-color:white;
+width: 30px;
+height: 20px;
+margin-left:1305px;
+margin-top:-730px;
+}
+
+#woodscore{
+  background-color:white;
+  width: 30px;
+  height: 20px;
+  position: absolute;
+  margin-left:1305px;
+  margin-top:-680px;
+  
+}
+
+#bigbox{
+  position: absolute;
+  width:500px;
+  height:300px;
+  margin-left:500px;
+  margin-top:-690px;
+float:right;
+ 
+}
+.crafting{
+  position: absolute;
+  width: 120px;
+  height: 70px;
+  background-color: gray;
+  margin-top: -73px;
+
+  font-size: 15px;
+}
+#dialogue {
+    background-color: white;
+    border: none;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    width:170px;
+    height:500px;
+  margin-top:-770px;
+  position:absolute;
+  overflow: scroll;
+
+ 
+  
+}
+.button1{
+  border:solid black;
+  border-width:2px;
+  width:150px;
+  font-size: 25px
+}
+.button2{
+  border:solid black;
+  border-width:2px;
+  width:150px;
+  font-size: 15px
+}
+#forest{
+  position: absolute;
+  background-color: lightgreen;
+  margin-left:10px
+}
+
+#pond{
+  position: absolute;
+  margin-left: 290px;
+  background-color: lightblue;
+}
+
+#food{
+  position: absolute;
+  margin-top: 70px;
+  background-color: pink;
+  margin-left:10px
+}
+
+#wood{
+ position: absolute;
+  margin-left: 10px;
+  margin-top: 140px;
+  background-color: #996600;
+}
+
+#stone{
+  position: absolute;
+  margin-left: 10px;
+    margin-top: 210px;
+}
+
+#water{
+  position: absolute;
+  margin-left: 290px;
+  margin-top: 70px;
+  background-color: #66ffff;
+}
+
+#fish{
+  position: absolute;
+  margin-left: 290px;
+  margin-top: 140px;
+  background-color: orange
+}
+#crafting{
+  border:solid;
+  height:70px;
+  margin-top:700px;
+background-color: white;
+}
+#inventory{
+  position:absolute;
+ margin-left:1200px;
+  margin-top: -770px;
+    background-color: white; 
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    width:170px;
+    height:300px;
+    
+  }
+
+#spear{
+  margin-left: 2px;
+}
+
+#axe{
+  margin-left: 120px;
+}
+
+#hut{
+  margin-left: 240px;
+  }
+#torch{
+  margin-left: 360px;
+}
+
+
+
