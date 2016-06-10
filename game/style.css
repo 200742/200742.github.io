@@ -2,27 +2,7 @@ body{
   background-image: url(http://www.terynobrien.com/wp-content/uploads/2012/12/forestsun.jpg);
 }
 
-.health-bar {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  width: 200px;
-  height: 20px;
-  padding: 5px;
-  background: #ddd;
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  border-radius: 5px;
-  position: relative;
-}
-.bar {
-  background: #c54;
-  width: 100%;
-  height: 10px;
-  position: relative;
-  
-  transition: width .5s linear;
-}
+
 
 #fishscore{
    position:absolute;
